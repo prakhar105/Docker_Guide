@@ -66,3 +66,8 @@ docker login
 docker build -t <username>/docker_guide . 
 docker push <username>/docker_guide:latest
 ```
+#### Docker Compose
+```
+docker compose up
+docker compose stop
+```
